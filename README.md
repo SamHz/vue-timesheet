@@ -1,6 +1,8 @@
 # vue-timesheet
 
-> A vue component for timesheetjs
+> this Vue component is [timesheet.js]<https://github.com/sbstjn/timesheet.js> 
+
+> and then i am add week sort 
 
 ## Build Setup
 

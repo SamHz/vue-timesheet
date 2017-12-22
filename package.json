@@ -1,6 +1,6 @@
 {
   "name": "vue-timesheet",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "A vue component for timesheetjs",
   "author": "SamHz <qyex@qq.com>",
   "private": false,
@@ -69,5 +69,17 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamHz/vue-timesheet.git"
+  },
+  "keywords": [
+    "vue-timesheet"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SamHz/vue-timesheet/issues"
+  },
+  "homepage": "https://github.com/SamHz/vue-timesheet#readme"
 }
