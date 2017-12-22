@@ -4,6 +4,7 @@
 
 > and add weeks table 
 
+![show](https://raw.githubusercontent.com/sbstjn/timesheet.js/master/screen.png)
 
 ## Build Setup
 
